@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama : Luthfi Hanif
+                      NPM  : 1908107010042
+        Program Studi Informatika mulai menyelenggarakan kegiatan akademik sejak tahun 2010 dan sejak tanggal 16 September 2020 telah berakreditasi A. Sejak berdiri hingga sekarang, program studi ini merupakan salah satu program studi pilihan favorit para calon mahasiswa, untuk semua jalur masuk perguruan tinggi.
+
+Seluruh mata kuliah di program studi ini diarahkan untuk menghasilkan lulusan yang berkualitas, mandiri, kreatif dan mampu menganalisis dan menyelesaikan masalah secara sistematis dengan bantuan komputer, sehingga mereka diharapkan mampu mendayagunakan hasil pengembangan bidang ilmu tersebut untuk pembangunan dan kemaslahatan umat manusia.
+
+Para dosen Program Studi Informatika merupakan lulusan S3 dan S2 dari perguruan tinggi di berbagai negara, di antaranya Amerika (USA), Jerman, Australia, Jepang, Belanda, Italia, Inggris (UK), Taiwan, Malaysia, dan Indonesia. Para lulusan program studi ini dipersiapkan untuk mampu bekerja di berbagai bidang yang membutuhkan kompetensi komputerisasi. Pesatnya perkembangan Teknologi Informasi dan Komunikasi menempatkan kompetensi yang dimiliki para lulusan sebagai salah satu yang dibutuhkan saat ini dan juga di masa depan. Oleh karena itu, lulusan program studi ini telah bekerja di berbagai bidang di Indonesia dan juga di luar negeri. Menurut data sementara, para alumni Prodi ini telah bekerja sebagai senior programmer pada perusahaan-perusahaan terkenal seperti Tokopedia, BukaLapak, dll, Computer Networking Administrator and Engineer pada instansi pemerintahan (DiskomInfo, Badan Pertanahan Nasional, BPJS, dll), IT manager pada Bank Mandiri, perwira karir pada instansi Kepolisian pada devisi Cyber Crime,  akademisi (dosen dan peneliti) di berbagai perguruan tinggi, birokrat di pemerintahan (PNS), pegawai BUMN, pekerja industri, serta pewirausaha."
+        android:textSize="24sp">
+
+    </TextView>
+
+
+</ScrollView>
